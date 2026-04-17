@@ -27,6 +27,5 @@ Full details in [task1/README.md](task1/README.md)
 
 My task2 self-study project is about Heap.
 
-```
 
 More details over at [task2/README.md](task2/README.md)

@@ -33,8 +33,6 @@ python main.py
 - ✅ Friendly, conversational error messages
 - ✅ Simple string representations
 
-## 🛠️ Core Components
-
 ## 📖 Examples
 
 ### Adding a Book
